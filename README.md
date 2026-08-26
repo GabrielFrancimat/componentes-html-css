@@ -10,3 +10,4 @@ Repositório para as coding durante as aulas (Digital College)
 - Formulários
 - Lista de Imagens
 - Rodapé que leva para o topo
+- Animações em CSS
